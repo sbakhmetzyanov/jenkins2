@@ -1,1 +1,1 @@
-# jenkins2
+# pythonQA HW

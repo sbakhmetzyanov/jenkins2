@@ -25,7 +25,7 @@ def pytest_addoption(parser):
     parser.addoption(
         "--headless", action="store_true"
     )
-    parser.addoption("--url", action="store", default="http://opencart:8080")
+    parser.addoption("--url", action="store", default="opencart:8080")
     parser.addoption("--log_level", action="store", default="INFO")
 
 

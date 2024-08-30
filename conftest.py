@@ -19,7 +19,7 @@ def pytest_addoption(parser):
     parser.addoption(
         "--browser_remote", default="chrome", choices=["chrome", "firefox", "safari"]
     )
-    parser.addoption("--bv_remote", action="store", default="127.0")
+    parser.addoption("--bv_remote", action="store", default="126.0")
     parser.addoption("--vnc", action="store_true")
     parser.addoption("--executor", action="store", default="selenoid")
     parser.addoption(

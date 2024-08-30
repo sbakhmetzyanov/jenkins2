@@ -1,0 +1,5 @@
+[32mINFO    [0m test_main_page_currency:conftest.py:60 ===> Test test_main_page_currency started at 2024-08-29 19:50:20.782061
+[32mINFO    [0m test_main_page_currency:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="3681e083ecedd337d68dcc6fefb5d3d0")> started
+[32mINFO    [0m test_main_page_currency:top_menu_element.py:29 Click on Currency dropdown
+[32mINFO    [0m test_main_page_currency:top_menu_element.py:35 Check the number of currencies in the Currency dropdown
+[32mINFO    [0m test_main_page_currency:conftest.py:115 ===> Test test_main_page_currency finished at 2024-08-29 19:50:22.728859

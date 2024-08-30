@@ -1,0 +1,7 @@
+[32mINFO    [0m test_register_page_fill_invalid_password:conftest.py:60 ===> Test test_register_page_fill_invalid_password started at 2024-08-29 19:50:51.848644
+[32mINFO    [0m test_register_page_fill_invalid_password:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="a54068dc550db59194b97f2aa9bd61de")> started
+[32mINFO    [0m test_register_page_fill_invalid_password:register_page.py:28 Open registration page
+[32mINFO    [0m test_register_page_fill_invalid_password:register_page.py:80 Input invalid password '123' in the Password field
+[32mINFO    [0m test_register_page_fill_invalid_password:register_page.py:86 Click on the Submit button
+[32mINFO    [0m test_register_page_fill_invalid_password:register_page.py:92 Check password validation text
+[32mINFO    [0m test_register_page_fill_invalid_password:conftest.py:115 ===> Test test_register_page_fill_invalid_password finished at 2024-08-29 19:50:55.002080

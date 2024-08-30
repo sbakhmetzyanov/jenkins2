@@ -1,0 +1,8 @@
+[32mINFO    [0m test_add_to_cart_random_product:conftest.py:60 ===> Test test_add_to_cart_random_product started at 2024-08-29 19:51:00.055930
+[32mINFO    [0m test_add_to_cart_random_product:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="3f40f7be86bee0dce563726db07b25c6")> started
+[32mINFO    [0m test_add_to_cart_random_product:main_page.py:66 Add a random product to cart
+[32mINFO    [0m test_add_to_cart_random_product:alert_success_element.py:20 Check text in success alert when adding product to cart
+[32mINFO    [0m test_add_to_cart_random_product:alert_success_element.py:27 Click on the close alert button
+[32mINFO    [0m test_add_to_cart_random_product:top_menu_element.py:21 Click on the Shopping cart link
+[32mINFO    [0m test_add_to_cart_random_product:shopping_cart_page.py:13 Check if there are no products in the cart
+[32mINFO    [0m test_add_to_cart_random_product:conftest.py:115 ===> Test test_add_to_cart_random_product finished at 2024-08-29 19:51:04.279142

@@ -1,0 +1,5 @@
+[32mINFO    [0m test_product_page_iphone_header:conftest.py:60 ===> Test test_product_page_iphone_header started at 2024-08-29 19:50:33.148607
+[32mINFO    [0m test_product_page_iphone_header:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="ea7ca3c9b8854eea976b155b4274e55b")> started
+[32mINFO    [0m test_product_page_iphone_header:product_page.py:17 Open iPhone product page
+[32mINFO    [0m test_product_page_iphone_header:product_page.py:23 Check the display of the header in the iPhone product page
+[32mINFO    [0m test_product_page_iphone_header:conftest.py:115 ===> Test test_product_page_iphone_header finished at 2024-08-29 19:50:35.500449

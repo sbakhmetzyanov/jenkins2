@@ -1,0 +1,5 @@
+[32mINFO    [0m test_product_page_iphone_rating:conftest.py:60 ===> Test test_product_page_iphone_rating started at 2024-08-29 19:50:37.494726
+[32mINFO    [0m test_product_page_iphone_rating:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="858dbd10c6c6df32ac246f16f19928a1")> started
+[32mINFO    [0m test_product_page_iphone_rating:product_page.py:17 Open iPhone product page
+[32mINFO    [0m test_product_page_iphone_rating:product_page.py:37 Check rating in iPhone product page
+[32mINFO    [0m test_product_page_iphone_rating:conftest.py:115 ===> Test test_product_page_iphone_rating finished at 2024-08-29 19:50:39.615868

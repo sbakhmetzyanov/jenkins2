@@ -1,0 +1,8 @@
+[32mINFO    [0m test_login_and_logout_to_admin_page:conftest.py:60 ===> Test test_login_and_logout_to_admin_page started at 2024-08-29 19:50:55.005278
+[32mINFO    [0m test_login_and_logout_to_admin_page:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="c99cad5fca5f6f39cb406b0ee6d7fc2f")> started
+[32mINFO    [0m test_login_and_logout_to_admin_page:admin_page.py:21 Open admin page
+[32mINFO    [0m test_login_and_logout_to_admin_page:admin_page.py:88 Login to the admin panel
+[32mINFO    [0m test_login_and_logout_to_admin_page:admin_page.py:97 Check login success
+[32mINFO    [0m test_login_and_logout_to_admin_page:admin_page.py:105 Logout from the admin panel
+[32mINFO    [0m test_login_and_logout_to_admin_page:admin_page.py:111 Check logout success
+[32mINFO    [0m test_login_and_logout_to_admin_page:conftest.py:115 ===> Test test_login_and_logout_to_admin_page finished at 2024-08-29 19:51:00.053161

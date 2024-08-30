@@ -1,0 +1,6 @@
+[32mINFO    [0m test_catalog_page_desktops_mac_quantity:conftest.py:60 ===> Test test_catalog_page_desktops_mac_quantity started at 2024-08-29 19:50:15.648450
+[32mINFO    [0m test_catalog_page_desktops_mac_quantity:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="d0d65c4d2661ef86696049468d6c0455")> started
+[32mINFO    [0m test_catalog_page_desktops_mac_quantity:catalog_desktops_page.py:20 Open the Desktops catalog page
+[32mINFO    [0m test_catalog_page_desktops_mac_quantity:catalog_desktops_page.py:47 Click on a menu item
+[32mINFO    [0m test_catalog_page_desktops_mac_quantity:catalog_desktops_page.py:53 Check the count of products in the section
+[32mINFO    [0m test_catalog_page_desktops_mac_quantity:conftest.py:115 ===> Test test_catalog_page_desktops_mac_quantity finished at 2024-08-29 19:50:18.142673

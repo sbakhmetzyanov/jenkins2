@@ -21,11 +21,11 @@ def pytest_addoption(parser):
     )
     parser.addoption("--bv_remote", action="store", default="127.0")
     parser.addoption("--vnc", action="store_true")
-    parser.addoption("--executor", action="store", default="127.0.0.1")
+    parser.addoption("--executor", action="store", default="selenoid")
     parser.addoption(
         "--headless", action="store_true"
     )
-    parser.addoption("--url", action="store", default="http://192.168.1.75:8081")
+    parser.addoption("--url", action="store", default="opencart:8080")
     parser.addoption("--log_level", action="store", default="INFO")
 
 

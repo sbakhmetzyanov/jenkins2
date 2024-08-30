@@ -1,0 +1,13 @@
+[32mINFO    [0m test_delete_product_admin_page:conftest.py:60 ===> Test test_delete_product_admin_page started at 2024-08-29 19:51:26.450556
+[32mINFO    [0m test_delete_product_admin_page:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="59804fb63a900e374b79890b5d6750b4")> started
+[32mINFO    [0m test_delete_product_admin_page:admin_page.py:21 Open admin page
+[32mINFO    [0m test_delete_product_admin_page:admin_page.py:88 Login to the admin panel
+[32mINFO    [0m test_delete_product_admin_page:admin_page.py:97 Check login success
+[32mINFO    [0m test_delete_product_admin_page:admin_products_page.py:18 Open Products section of menu
+[32mINFO    [0m test_delete_product_admin_page:admin_products_page.py:32 Input 'Test Product' in the Product Name filter field
+[32mINFO    [0m test_delete_product_admin_page:admin_products_page.py:38 Click on the Filter button
+[32mINFO    [0m test_delete_product_admin_page:admin_products_page.py:44 Click on the product selection checkbox
+[32mINFO    [0m test_delete_product_admin_page:admin_products_page.py:50 Click on the Delete button
+[32mINFO    [0m test_delete_product_admin_page:admin_products_page.py:56 Click on the product removal confirmation button
+[32mINFO    [0m test_delete_product_admin_page:alert_success_element.py:33 Check text in success alert when product changes
+[32mINFO    [0m test_delete_product_admin_page:conftest.py:115 ===> Test test_delete_product_admin_page finished at 2024-08-29 19:51:36.527634

@@ -1,0 +1,6 @@
+[32mINFO    [0m test_product_page_iphone_related_products:conftest.py:60 ===> Test test_product_page_iphone_related_products started at 2024-08-29 19:50:39.619104
+[32mINFO    [0m test_product_page_iphone_related_products:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="546981cd1c67498ac7d6978724fbac52")> started
+[32mINFO    [0m test_product_page_iphone_related_products:product_page.py:17 Open iPhone product page
+[32mINFO    [0m test_product_page_iphone_related_products:product_page.py:45 Check the title of related products on the iPhone product page
+[32mINFO    [0m test_product_page_iphone_related_products:product_page.py:52 Check for related products on the iPhone product page
+[32mINFO    [0m test_product_page_iphone_related_products:conftest.py:115 ===> Test test_product_page_iphone_related_products finished at 2024-08-29 19:50:41.744162

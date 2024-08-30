@@ -1,0 +1,16 @@
+[32mINFO    [0m test_add_new_product_admin_page:conftest.py:60 ===> Test test_add_new_product_admin_page started at 2024-08-29 19:51:13.798319
+[32mINFO    [0m test_add_new_product_admin_page:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="cfa7bb420bc6aaebf9a0353260dd097d")> started
+[32mINFO    [0m test_add_new_product_admin_page:admin_page.py:21 Open admin page
+[32mINFO    [0m test_add_new_product_admin_page:admin_page.py:88 Login to the admin panel
+[32mINFO    [0m test_add_new_product_admin_page:admin_page.py:97 Check login success
+[32mINFO    [0m test_add_new_product_admin_page:admin_products_page.py:18 Open Products section of menu
+[32mINFO    [0m test_add_new_product_admin_page:admin_products_page.py:26 Click on the add new product button
+[32mINFO    [0m test_add_new_product_admin_page:add_product_page.py:18 Input 'Test Product' in the Product Name field
+[32mINFO    [0m test_add_new_product_admin_page:add_product_page.py:24 Input 'Test Product Tag' in the Meta Tag Title field
+[32mINFO    [0m test_add_new_product_admin_page:add_product_page.py:30 Click on the Data tab
+[32mINFO    [0m test_add_new_product_admin_page:add_product_page.py:36 Input 'Test Model' in the Model field
+[32mINFO    [0m test_add_new_product_admin_page:add_product_page.py:42 Click on the SEO tab
+[32mINFO    [0m test_add_new_product_admin_page:add_product_page.py:48 Input 'test-product' in the Keyword field
+[32mINFO    [0m test_add_new_product_admin_page:add_product_page.py:54 Click on the Save button
+[32mINFO    [0m test_add_new_product_admin_page:alert_success_element.py:33 Check text in success alert when product changes
+[32mINFO    [0m test_add_new_product_admin_page:conftest.py:115 ===> Test test_add_new_product_admin_page finished at 2024-08-29 19:51:26.446996

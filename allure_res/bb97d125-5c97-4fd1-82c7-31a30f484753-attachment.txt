@@ -1,0 +1,5 @@
+[32mINFO    [0m test_product_page_iphone_price:conftest.py:60 ===> Test test_product_page_iphone_price started at 2024-08-29 19:50:35.503262
+[32mINFO    [0m test_product_page_iphone_price:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="79b89bf416ca9b20d82de4fa8675b460")> started
+[32mINFO    [0m test_product_page_iphone_price:product_page.py:17 Open iPhone product page
+[32mINFO    [0m test_product_page_iphone_price:product_page.py:30 Check price in iPhone product page
+[32mINFO    [0m test_product_page_iphone_price:conftest.py:115 ===> Test test_product_page_iphone_price finished at 2024-08-29 19:50:37.491683

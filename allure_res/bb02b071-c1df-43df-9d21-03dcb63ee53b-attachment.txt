@@ -1,0 +1,13 @@
+[32mINFO    [0m test_catalog_page_switch_currencies:conftest.py:60 ===> Test test_catalog_page_switch_currencies started at 2024-08-29 19:51:08.192553
+[32mINFO    [0m test_catalog_page_switch_currencies:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="e5e718e4bd4ffc4bab298c17fdaf2407")> started
+[32mINFO    [0m test_catalog_page_switch_currencies:catalog_desktops_page.py:20 Open the Desktops catalog page
+[32mINFO    [0m test_catalog_page_switch_currencies:top_menu_element.py:29 Click on Currency dropdown
+[32mINFO    [0m test_catalog_page_switch_currencies:top_menu_element.py:43 Click on Euro currency
+[32mINFO    [0m test_catalog_page_switch_currencies:catalog_desktops_page.py:74 Check display of price and tax in Euro
+[32mINFO    [0m test_catalog_page_switch_currencies:top_menu_element.py:29 Click on Currency dropdown
+[32mINFO    [0m test_catalog_page_switch_currencies:top_menu_element.py:49 Click on Pound currency
+[32mINFO    [0m test_catalog_page_switch_currencies:catalog_desktops_page.py:85 Check display of price and tax in Pound
+[32mINFO    [0m test_catalog_page_switch_currencies:top_menu_element.py:29 Click on Currency dropdown
+[32mINFO    [0m test_catalog_page_switch_currencies:top_menu_element.py:55 Click on Dollar currency
+[32mINFO    [0m test_catalog_page_switch_currencies:catalog_desktops_page.py:96 Check display of price and tax in Dollar
+[32mINFO    [0m test_catalog_page_switch_currencies:conftest.py:115 ===> Test test_catalog_page_switch_currencies finished at 2024-08-29 19:51:13.793694

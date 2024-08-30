@@ -1,0 +1,5 @@
+[32mINFO    [0m test_register_page_fieldset_titles:conftest.py:60 ===> Test test_register_page_fieldset_titles started at 2024-08-29 19:50:44.208866
+[32mINFO    [0m test_register_page_fieldset_titles:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="0b2df1dd97ff1610d7aee37cdb9b8978")> started
+[32mINFO    [0m test_register_page_fieldset_titles:register_page.py:28 Open registration page
+[32mINFO    [0m test_register_page_fieldset_titles:register_page.py:42 Check display of field set headers
+[32mINFO    [0m test_register_page_fieldset_titles:conftest.py:115 ===> Test test_register_page_fieldset_titles finished at 2024-08-29 19:50:46.361610

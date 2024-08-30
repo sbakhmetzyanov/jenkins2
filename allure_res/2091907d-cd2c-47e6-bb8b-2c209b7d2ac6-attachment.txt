@@ -1,0 +1,9 @@
+[32mINFO    [0m test_registration_user:conftest.py:60 ===> Test test_registration_user started at 2024-08-29 19:51:36.531449
+[32mINFO    [0m test_registration_user:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="3b81dbe51333072205b4fb25f46cd6fd")> started
+[32mINFO    [0m test_registration_user:register_page.py:28 Open registration page
+[32mINFO    [0m test_registration_user:register_page.py:103 Fill in the personal details fields
+[32mINFO    [0m test_registration_user:register_page.py:111 Input a valid password '123Smith' in the Password field
+[32mINFO    [0m test_registration_user:register_page.py:117 Click on the agreement checkbox
+[32mINFO    [0m test_registration_user:register_page.py:86 Click on the Submit button
+[32mINFO    [0m test_registration_user:register_page.py:123 Wait for successful registration
+[32mINFO    [0m test_registration_user:conftest.py:115 ===> Test test_registration_user finished at 2024-08-29 19:51:43.634543

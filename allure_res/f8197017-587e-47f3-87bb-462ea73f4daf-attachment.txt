@@ -1,0 +1,4 @@
+[32mINFO    [0m test_product_page_iphone_card_url:conftest.py:60 ===> Test test_product_page_iphone_card_url started at 2024-08-29 19:50:30.257951
+[32mINFO    [0m test_product_page_iphone_card_url:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="7b62ee819d3ae081b307d18f25453ede")> started
+[32mINFO    [0m test_product_page_iphone_card_url:main_page.py:56 Click on the recommended product card
+[32mINFO    [0m test_product_page_iphone_card_url:conftest.py:115 ===> Test test_product_page_iphone_card_url finished at 2024-08-29 19:50:33.144127

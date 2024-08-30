@@ -1,0 +1,8 @@
+[32mINFO    [0m test_admin_page_username_input:conftest.py:60 ===> Test test_admin_page_username_input started at 2024-08-29 19:49:58.122523
+[32mINFO    [0m test_admin_page_username_input:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="7b7b064370d5b9ed5cf52447b29b3303")> started
+[32mINFO    [0m test_admin_page_username_input:admin_page.py:21 Open admin page
+[32mINFO    [0m test_admin_page_username_input:admin_page.py:27 Wait for the login card element in the admin page
+[32mINFO    [0m test_admin_page_username_input:admin_page.py:41 Check label of Username input
+[32mINFO    [0m test_admin_page_username_input:admin_page.py:53 Check icon of Username input
+[32mINFO    [0m test_admin_page_username_input:admin_page.py:65 Check placeholder of Username input
+[32mINFO    [0m test_admin_page_username_input:conftest.py:115 ===> Test test_admin_page_username_input finished at 2024-08-29 19:50:00.442562

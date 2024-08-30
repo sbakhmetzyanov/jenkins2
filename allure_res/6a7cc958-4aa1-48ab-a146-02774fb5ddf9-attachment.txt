@@ -1,0 +1,5 @@
+[32mINFO    [0m test_register_page_menu_items:conftest.py:60 ===> Test test_register_page_menu_items started at 2024-08-29 19:50:41.749976
+[32mINFO    [0m test_register_page_menu_items:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="7f9152dd6292d4231cc436113f64a362")> started
+[32mINFO    [0m test_register_page_menu_items:register_page.py:28 Open registration page
+[32mINFO    [0m test_register_page_menu_items:register_page.py:34 Check count of items in side menu
+[32mINFO    [0m test_register_page_menu_items:conftest.py:115 ===> Test test_register_page_menu_items finished at 2024-08-29 19:50:44.206031

@@ -1,0 +1,12 @@
+[32mINFO    [0m test_main_page_switch_currencies:conftest.py:60 ===> Test test_main_page_switch_currencies started at 2024-08-29 19:51:04.283132
+[32mINFO    [0m test_main_page_switch_currencies:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="de9bef6b1f081822387f4f146b8e5616")> started
+[32mINFO    [0m test_main_page_switch_currencies:top_menu_element.py:29 Click on Currency dropdown
+[32mINFO    [0m test_main_page_switch_currencies:top_menu_element.py:43 Click on Euro currency
+[32mINFO    [0m test_main_page_switch_currencies:main_page.py:77 Check display of price and tax in Euro
+[32mINFO    [0m test_main_page_switch_currencies:top_menu_element.py:29 Click on Currency dropdown
+[32mINFO    [0m test_main_page_switch_currencies:top_menu_element.py:49 Click on Pound currency
+[32mINFO    [0m test_main_page_switch_currencies:main_page.py:88 Check display of price and tax in Pound
+[32mINFO    [0m test_main_page_switch_currencies:top_menu_element.py:29 Click on Currency dropdown
+[32mINFO    [0m test_main_page_switch_currencies:top_menu_element.py:55 Click on Dollar currency
+[32mINFO    [0m test_main_page_switch_currencies:main_page.py:99 Check display of price and tax in Dollar
+[32mINFO    [0m test_main_page_switch_currencies:conftest.py:115 ===> Test test_main_page_switch_currencies finished at 2024-08-29 19:51:08.189001

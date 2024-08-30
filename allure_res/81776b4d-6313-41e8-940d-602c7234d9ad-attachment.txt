@@ -1,0 +1,4 @@
+[32mINFO    [0m test_main_page_product_buttons:conftest.py:60 ===> Test test_main_page_product_buttons started at 2024-08-29 19:50:26.717815
+[32mINFO    [0m test_main_page_product_buttons:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="697f93ca93103452a951ec3e16689371")> started
+[32mINFO    [0m test_main_page_product_buttons:main_page.py:48 Check the number of buttons on product cards
+[32mINFO    [0m test_main_page_product_buttons:conftest.py:115 ===> Test test_main_page_product_buttons finished at 2024-08-29 19:50:28.507249

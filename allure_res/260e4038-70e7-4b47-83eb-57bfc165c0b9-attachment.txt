@@ -1,0 +1,6 @@
+[32mINFO    [0m test_register_page_subscribe_checkbox:conftest.py:60 ===> Test test_register_page_subscribe_checkbox started at 2024-08-29 19:50:46.365023
+[32mINFO    [0m test_register_page_subscribe_checkbox:conftest.py:102 Browser <selenium.webdriver.remote.webdriver.WebDriver (session="c1e0ee1917ae43b6e5ec4df82d33309c")> started
+[32mINFO    [0m test_register_page_subscribe_checkbox:register_page.py:28 Open registration page
+[32mINFO    [0m test_register_page_subscribe_checkbox:register_page.py:53 Click on the newsletter checkbox
+[32mINFO    [0m test_register_page_subscribe_checkbox:register_page.py:59 Check activation of the newsletter checkbox
+[32mINFO    [0m test_register_page_subscribe_checkbox:conftest.py:115 ===> Test test_register_page_subscribe_checkbox finished at 2024-08-29 19:50:48.858359
